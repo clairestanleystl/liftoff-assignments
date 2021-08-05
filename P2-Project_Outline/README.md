@@ -12,7 +12,7 @@ An e-commerce site, allowing users to browse items, sort and filter results, add
 
 ### Features
 Include Features here
-View/search/filter results
+- View/search/filter results
 Checkout for items
 Process shipping
 review purtchase
